@@ -64,4 +64,14 @@ To run this project locally, follow the steps below:
 
 ## License 
 
-- This project is licensed under the [MIT License]( - see the LICENSE file for details.
+- This project is licensed under the [MIT License](https://github.com/yahye-mohamed101/Slot_machine/tree/main?tab=MIT-1-ov-file) - see the LICENSE file for details.
+
+
+## Author 
+
+- Yahye Mohamed
+
+## Acknowledgements 
+
+- This game was built as a simple project to practice JavaScript fundamentals.
+- Special thanks to the open-source community for libraries like prompt-sync that make building console-based applications easier.
