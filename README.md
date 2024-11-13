@@ -1,4 +1,4 @@
-# # JavaScript Slot Machine
+## JavaScript Slot Machine
 
 This is a simple Slot Machine game built using JavaScript. The game allows the player to deposit money, choose how many lines to bet on, and spin the reels to see if they win. The player can keep playing as long as they have money left.
 
